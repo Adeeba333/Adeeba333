@@ -9,5 +9,5 @@
 
 - 📫 How to reach me via email:**timmaadeeba@gmail.com**
 
--  <h3 align="left">Connect with me:</h3>
+
 
