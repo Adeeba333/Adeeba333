@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **C,C++,PYTHON,JAVASCRIPT,HTML,CSS**
 
-- 📫 How to reach me via email:**timmaadeeba@gmail.com**
+- 📫 How to reach me via email:**adeebatimma2002@gmail.com**
+
 
 
 
