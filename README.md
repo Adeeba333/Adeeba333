@@ -1,5 +1,3 @@
-
-
 - 🌱 I studied **CSE at Bangladesh University of Business and Technology (BUBT).**
 
 - 🤝 I’m looking to collaborate on **projects such as related to c,c++,python**
